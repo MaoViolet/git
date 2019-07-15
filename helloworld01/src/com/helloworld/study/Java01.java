@@ -15,7 +15,8 @@ public class Java01 {
 		amount = in.nextInt();
 		System.out.print("«Î ‰»ÎΩ∂Ó£∫");
 		price=in.nextInt();
-		System.out.println(amount+"-"+price+"="+(100-price));
+		System.out.println("”‡∂Ó «:"+amount+"-"+price+"="+(amount-price));
+		
 		
 	}
 
