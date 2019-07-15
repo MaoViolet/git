@@ -12,6 +12,8 @@ public class Java02 {
 //		Scanner in = new Scanner(System.in);
 //		System.out.println("echo:"+ in.nextLine());
 		System.out.println("2+3="+5); 
+		System.out.println("5="+"2+3="+(2+3));
+		System.
 	}
 
 }
